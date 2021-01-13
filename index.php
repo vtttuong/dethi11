@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Bài tập trắc nghiệm</title>
+    <title>Bài tập trắc nghiệm toán 11</title>
     <meta charset="utf-8">
 </head>
 <body>
@@ -12,6 +12,7 @@
             		<th>
 			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvwfmaiiVNOq4I3EoRw0d8D6dNntLXUN_ETPFDsuHgILHYig/viewform" width="360" height="580" frameborder="0" marginheight="0" marginwidth="0">Ðang t?i…</iframe>
 			<center><font color="blue">Giáo Viên: Nguyễn Thị Thu </font></center>
+			<center><font color="blue">Trường THPT Lý Tự Trọng</font></center>
 			</th>
         </tr>
     </table>
